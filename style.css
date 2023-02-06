@@ -1,0 +1,62 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: #F2F2F2;
+}
+
+element {
+  background-image: url(https://www.bing.com/images/search?q=Text+Background+Photoshop&form=IRIBIP&first=1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header h1 {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+.lyrics {
+  border: 1px solid #000;
+  background-color: darkgreen;
+  padding: 20px;
+
+  color: white;
+
+}
+
+.lyrics h2 {
+  font-style: italic;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.lyrics p.verse {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 30px;
+  text-align: justify;
+}
+
+.lyrics p.chorus {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-top: 30px;
+  text-align: center;
+}
+
+footer p {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.lyrics p.verse {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-top: 30px;
+  text-align: justify;
+  border: 1px solid blue;
+  padding: 10px;
+  background-color:darkblue ;
+  }
+
+  
